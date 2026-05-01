@@ -1,6 +1,8 @@
 # 🛰️ Satellite-Based Urban Encroachment Detection System
 
 This project detects urban expansion and encroachment using satellite images.
+(Live Demo)
+https://urban-encroachment-detection-np7tgfopdpsbinfdztc38w.streamlit.app/
 
 ## 🚀 Features
 - Upload before & after images
